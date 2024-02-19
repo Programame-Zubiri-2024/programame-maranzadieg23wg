@@ -2,8 +2,8 @@ public class Main {
     public static void main(String[] args) {
 
 
-        int data1 = 5041980;
-        int data2 = 19122052;
+        int data1 = 1011998;
+        int data2 = 4011998;
 
 
         if (data1<data2){
