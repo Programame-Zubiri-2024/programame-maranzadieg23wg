@@ -62,7 +62,7 @@ public class Main {
         if (bisiesto(urtea)){
             urte++;
         }
-        System.out.println(urte);
+        //System.out.println(urte);
         return urte;
     }
     public static boolean bisiesto(String urtea) {
